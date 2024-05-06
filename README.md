@@ -1,6 +1,6 @@
 # Hi, I'm Storm Lee
 
-A senior frontend developer from China, based in Shanghai. I regulary write articles on Obsidian.
+A frontend developer from China, based in Shanghai. I regulary write articles on Obsidian.
 
 See more in [my blog](https://www.stormlee.top/)
 
