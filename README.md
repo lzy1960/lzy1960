@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm [Storm Lee](https://www.stormlee.top/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36px"> 
+# Hi, I'm [Storm Lee](https://www.stormlee.top/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36px">
 
 A frontend developer from China, based in Shanghai.
 
@@ -22,6 +22,6 @@ Develop using windows + wsl2.
 
 ![lzy1960](https://github-profile-trophy.vercel.app/?username=lzy1960&theme=dracula&column=9&no-frame=false&no-bg=false&margin-w=4)
 
-![lzy1960](https://github-readme-activity-graph.vercel.app/graph?username=lzy1960&theme=dracula)
-  
+<!-- ![lzy1960](https://github-readme-activity-graph.vercel.app/graph?username=lzy1960&theme=dracula) -->
+
 </div>
