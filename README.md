@@ -20,7 +20,7 @@ Develop using windows + wsl2.
 
 ![lzy1960](https://github-readme-stats.vercel.app/api/top-langs/?username=lzy1960&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![lzy1960](https://github-profile-trophy.vercel.app/?username=lzy1960&theme=dracula&column=9&no-frame=false&no-bg=false&margin-w=4)
+![lzy1960](https://github-profile-trophy.vercel.app/?username=lzy1960&theme=dracula&row=2&column=4&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- ![lzy1960](https://github-readme-activity-graph.vercel.app/graph?username=lzy1960&theme=dracula) -->
 
