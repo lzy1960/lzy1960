@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm [Storm Lee](https://www.stormlee.asia/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36px">
+# Hi, I'm [Storm Lee](https://stormlee.asia/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36px">
 
 A frontend developer from China, based in Shanghai.
 
