@@ -14,11 +14,11 @@ Develop using windows + wsl2.
 
 ## 📈 Stats
 
-![lzy1960](https://github-readme-stats.vercel.app/api?username=lzy1960&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)
+![lzy1960](https://github-readme-stats-xits.vercel.app/api?username=lzy1960&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)
 
 ![lzy1960](https://github-readme-streak-stats.herokuapp.com?user=lzy1960&theme=material-palenight)
 
-![lzy1960](https://github-readme-stats.vercel.app/api/top-langs/?username=lzy1960&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![lzy1960](https://github-readme-stats-xits.vercel.app/api/top-langs/?username=lzy1960&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![lzy1960](https://github-profile-trophy.vercel.app/?username=lzy1960&theme=dracula&row=2&column=4&no-frame=false&no-bg=false&margin-w=4)
 
